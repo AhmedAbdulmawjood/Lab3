@@ -40,5 +40,6 @@ public class AddressBook {
         System.out.println("Added Jane to the address book.");
         addressBook.removeBuddy(buddy2);
         System.out.println("Removed Jane from the address book.");
+        //testing 
     }
 }
