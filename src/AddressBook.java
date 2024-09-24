@@ -42,4 +42,9 @@ public class AddressBook {
         System.out.println("Removed Jane from the address book.");
         //testing 
     }
+    public int addNumbers(int a, int b) {
+        int sum = a + b;
+        // return value
+        return sum;
+    }
 }
